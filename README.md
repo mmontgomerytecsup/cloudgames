@@ -52,4 +52,4 @@ For production-grade applications, enhance your ESLint setup:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Tecsup License.
